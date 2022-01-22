@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\BL.Imp\\BL.Imp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\BL.Imp\\BL.Imp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\BL.Imp\\BL.Imp.csproj",
+        "projectName": "BL.Imp",
+        "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\BL.Imp\\BL.Imp.csproj",
+        "packagesPath": "C:\\Users\\Alona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\BL.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\DAL.Abs\\DAL.Abs.csproj": {
+                "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\DAL.Abs\\DAL.Abs.csproj"
+              },
+              "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj": {
+                "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\DAL.Abs\\DAL.Abs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\DAL.Abs\\DAL.Abs.csproj",
+        "projectName": "DAL.Abs",
+        "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\DAL.Abs\\DAL.Abs.csproj",
+        "packagesPath": "C:\\Users\\Alona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\DAL.Abs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj": {
+                "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj"
+              },
+              "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Imp\\Entities.Imp.csproj": {
+                "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Imp\\Entities.Imp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj",
+        "projectName": "Entities.Abs",
+        "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj",
+        "packagesPath": "C:\\Users\\Alona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Imp\\Entities.Imp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Imp\\Entities.Imp.csproj",
+        "projectName": "Entities.Imp",
+        "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Imp\\Entities.Imp.csproj",
+        "packagesPath": "C:\\Users\\Alona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj": {
+                "projectPath": "C:\\Users\\Alona\\Desktop\\заочка\\2 курс\\Профес.практика програм.інж\\proj\\Library\\Entities.Abs\\Entities.Abs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

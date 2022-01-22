@@ -1,0 +1,9 @@
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\bin\Debug\netcoreapp3.1\BL.Imp.deps.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\bin\Debug\netcoreapp3.1\BL.Imp.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\bin\Debug\netcoreapp3.1\BL.Imp.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\obj\Debug\netcoreapp3.1\BL.Imp.csprojAssemblyReference.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\obj\Debug\netcoreapp3.1\BL.Imp.AssemblyInfoInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\obj\Debug\netcoreapp3.1\BL.Imp.AssemblyInfo.cs
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\obj\Debug\netcoreapp3.1\BL.Imp.csproj.CoreCompileInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\obj\Debug\netcoreapp3.1\BL.Imp.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\BL.Imp\obj\Debug\netcoreapp3.1\BL.Imp.pdb

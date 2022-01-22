@@ -1,0 +1,16 @@
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Release\netcoreapp3.1\DAL.Abs.deps.json
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Release\netcoreapp3.1\DAL.Abs.runtimeconfig.json
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Release\netcoreapp3.1\DAL.Abs.runtimeconfig.dev.json
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Release\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Release\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Release\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Release\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.AssemblyInfoInputs.cache
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.AssemblyInfo.cs
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.csproj.CoreCompileInputs.cache
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.csproj.CopyComplete
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Release\netcoreapp3.1\DAL.Abs.genruntimeconfig.cache

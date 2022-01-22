@@ -1,0 +1,301 @@
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library_MarkupCompile.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library_MarkupCompile.lref
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.g.resources
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Imp.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Imp.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CopyComplete
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Imp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DTObjects.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\DTObjects.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\App.g.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library_MarkupCompile.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library_MarkupCompile.lref
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.g.resources
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CopyComplete
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Aspose.PDF.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\BL.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\BL.Impl.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\BL.Impl.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\BL.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\ViewModels.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\ViewModels.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\AccauntPage.g.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\AccauntPage.baml
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Catel.Core.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Catel.MVVM.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\de\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\es\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\it\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\LoginPage.baml
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Aspose.PDF.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Catel.Core.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Catel.MVVM.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\de\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\es\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\fr\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\it\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\nl\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\ru\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\tr\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\zh-Hans\Catel.MVVM.resources.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\BL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\BL.Impl.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\DAL.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\ViewModels.dll
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\ViewModels.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\BL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\BL.Impl.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\DAL.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\App.g.cs
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library_MarkupCompile.cache
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library_MarkupCompile.lref
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.g.resources
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CopyComplete
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+D:\univer\unic4kurs\Cursova\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache

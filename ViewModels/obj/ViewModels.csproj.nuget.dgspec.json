@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\univer\\unic4kurs\\Cursova\\Library\\ViewModels\\ViewModels.csproj": {}
+  },
+  "projects": {
+    "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Impl\\BL.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Impl\\BL.Impl.csproj",
+        "projectName": "BL.Impl",
+        "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Impl\\BL.Impl.csproj",
+        "packagesPath": "C:\\Users\\Макс\\.nuget\\packages\\",
+        "outputPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Impl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Макс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\BL.Abs.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\BL.Abs.csproj"
+              },
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Imp\\DAL.Imp.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Imp\\DAL.Imp.csproj"
+              },
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\Entities.Imp.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\Entities.Imp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Aspose.Cells": {
+              "target": "Package",
+              "version": "[22.1.0, )"
+            },
+            "Aspose.PDF": {
+              "target": "Package",
+              "version": "[21.5.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\BL.Abs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\BL.Abs.csproj",
+        "projectName": "BL.Abs",
+        "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\BL.Abs.csproj",
+        "packagesPath": "C:\\Users\\Макс\\.nuget\\packages\\",
+        "outputPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Макс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\DAL.Abs.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\DAL.Abs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Aspose.PDF": {
+              "target": "Package",
+              "version": "[21.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\DAL.Abs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\DAL.Abs.csproj",
+        "projectName": "DAL.Abs",
+        "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\DAL.Abs.csproj",
+        "packagesPath": "C:\\Users\\Макс\\.nuget\\packages\\",
+        "outputPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Макс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\Entities.Imp.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\Entities.Imp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Imp\\DAL.Imp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Imp\\DAL.Imp.csproj",
+        "projectName": "DAL.Imp",
+        "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Imp\\DAL.Imp.csproj",
+        "packagesPath": "C:\\Users\\Макс\\.nuget\\packages\\",
+        "outputPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Макс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\DAL.Abs.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\DAL.Abs\\DAL.Abs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\Entities.Imp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\Entities.Imp.csproj",
+        "projectName": "Entities.Imp",
+        "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\Entities.Imp.csproj",
+        "packagesPath": "C:\\Users\\Макс\\.nuget\\packages\\",
+        "outputPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\Entities.Imp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Макс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\univer\\unic4kurs\\Cursova\\Library\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\univer\\unic4kurs\\Cursova\\Library\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Макс\\.nuget\\packages\\",
+        "outputPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Макс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Impl\\BL.Impl.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Impl\\BL.Impl.csproj"
+              },
+              "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\BL.Abs.csproj": {
+                "projectPath": "D:\\univer\\unic4kurs\\Cursova\\Library\\BL.Imp\\BL.Abs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Aspose.Cells": {
+              "target": "Package",
+              "version": "[22.1.0, )"
+            },
+            "Catel.MVVM": {
+              "target": "Package",
+              "version": "[5.12.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

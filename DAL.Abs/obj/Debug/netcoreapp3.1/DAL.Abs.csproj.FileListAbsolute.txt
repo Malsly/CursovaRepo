@@ -1,0 +1,50 @@
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csprojAssemblyReference.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.AssemblyInfoInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.AssemblyInfo.cs
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.deps.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.CopyComplete
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.runtimeconfig.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.runtimeconfig.dev.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.CoreCompileInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.genruntimeconfig.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.deps.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.runtimeconfig.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.runtimeconfig.dev.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.AssemblyInfoInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.AssemblyInfo.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.CoreCompileInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.CopyComplete
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.genruntimeconfig.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.deps.json
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.runtimeconfig.json
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.runtimeconfig.dev.json
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.AssemblyInfoInputs.cache
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.AssemblyInfo.cs
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.CoreCompileInputs.cache
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.csproj.CopyComplete
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\DAL.Abs\obj\Debug\netcoreapp3.1\DAL.Abs.genruntimeconfig.cache

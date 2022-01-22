@@ -1,0 +1,47 @@
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.deps.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.runtimeconfig.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.runtimeconfig.dev.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\DTObjects.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\DTObjects.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.AssemblyInfoInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.AssemblyInfo.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.csproj.CoreCompileInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.csproj.CopyComplete
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.genruntimeconfig.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Imp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.deps.json
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.runtimeconfig.json
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.runtimeconfig.dev.json
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.dll
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Impl.pdb
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Abs.dll
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\BL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\bin\Debug\netcoreapp3.1\DAL.Abs.pdb
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.AssemblyInfoInputs.cache
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.AssemblyInfo.cs
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.csproj.CoreCompileInputs.cache
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.csproj.CopyComplete
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.dll
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.pdb
+D:\univer\unic4kurs\Cursova\Library\BL.Impl\obj\Debug\netcoreapp3.1\BL.Impl.genruntimeconfig.cache

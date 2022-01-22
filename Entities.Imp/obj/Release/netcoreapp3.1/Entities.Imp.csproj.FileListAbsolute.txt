@@ -1,0 +1,10 @@
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\bin\Release\netcoreapp3.1\Entities.Imp.deps.json
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\bin\Release\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\bin\Release\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Release\netcoreapp3.1\Entities.Imp.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Release\netcoreapp3.1\Entities.Imp.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Release\netcoreapp3.1\Entities.Imp.AssemblyInfoInputs.cache
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Release\netcoreapp3.1\Entities.Imp.AssemblyInfo.cs
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Release\netcoreapp3.1\Entities.Imp.csproj.CoreCompileInputs.cache
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Release\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Release\netcoreapp3.1\Entities.Imp.pdb

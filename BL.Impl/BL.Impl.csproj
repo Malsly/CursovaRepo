@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="22.1.0" />
+    <PackageReference Include="Aspose.PDF" Version="21.5.0" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BL.Imp\BL.Abs.csproj" />
+    <ProjectReference Include="..\DAL.Imp\DAL.Imp.csproj" />
+    <ProjectReference Include="..\Entities.Imp\Entities.Imp.csproj" />
+  </ItemGroup>
+
+</Project>

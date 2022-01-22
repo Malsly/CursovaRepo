@@ -1,0 +1,12 @@
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\bin\Debug\netcoreapp3.1\DTObjects.deps.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\bin\Debug\netcoreapp3.1\DTObjects.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\bin\Debug\netcoreapp3.1\DTObjects.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\obj\Debug\netcoreapp3.1\DTObjects.AssemblyInfoInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\obj\Debug\netcoreapp3.1\DTObjects.AssemblyInfo.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\obj\Debug\netcoreapp3.1\DTObjects.csproj.CoreCompileInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\obj\Debug\netcoreapp3.1\DTObjects.csproj.CopyComplete
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\obj\Debug\netcoreapp3.1\DTObjects.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\obj\Debug\netcoreapp3.1\DTObjects.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\DTObjects\obj\Debug\netcoreapp3.1\DTObjects.csproj.AssemblyReference.cache

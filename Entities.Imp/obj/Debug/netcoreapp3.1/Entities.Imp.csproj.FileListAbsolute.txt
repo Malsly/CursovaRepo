@@ -1,0 +1,34 @@
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.deps.json
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csprojAssemblyReference.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.AssemblyInfoInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.AssemblyInfo.cs
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csproj.CoreCompileInputs.cache
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csproj.CopyComplete
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.dll
+C:\Users\Alona\Desktop\заочка\2 курс\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.deps.json
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Abs.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Abs.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.AssemblyInfoInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.AssemblyInfo.cs
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csproj.CoreCompileInputs.cache
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csproj.CopyComplete
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic3kurs\Cursova\Профес.практика програм.інж\proj\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.deps.json
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\bin\Debug\netcoreapp3.1\Entities.Imp.pdb
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csproj.AssemblyReference.cache
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.AssemblyInfoInputs.cache
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.AssemblyInfo.cs
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.csproj.CoreCompileInputs.cache
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.dll
+D:\univer\unic4kurs\Cursova\Library\Entities.Imp\obj\Debug\netcoreapp3.1\Entities.Imp.pdb

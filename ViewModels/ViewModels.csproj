@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="22.1.0" />
+    <PackageReference Include="Catel.MVVM" Version="5.12.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BL.Impl\BL.Impl.csproj" />
+    <ProjectReference Include="..\BL.Imp\BL.Abs.csproj" />
+  </ItemGroup>
+
+</Project>
